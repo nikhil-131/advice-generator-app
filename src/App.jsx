@@ -24,7 +24,6 @@ function App() {
     setAdviceslip(response.slip);
   }
 
-  console.log(adviceslip)
   return (
     <>
       <div className="container lg:w-[40%] md:w-[60%] h-fit  bg-[#323a49] absolute top-0 bottom-0 left-0 right-0 m-auto rounded-2xl p-6 flex items-center justify-center flex-col">
