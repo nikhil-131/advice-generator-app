@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,19 +19,14 @@
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the app depending on the device's screen size
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
-### Screenshot
-
-![](../images/advice-generator-app.jpg)
- 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/nikhil-131/advice-generator-app.git](https://github.com/nikhil-131/advice-generator-app.git)
+- Live Site URL: [https://nikhil-131.github.io/advice-generator-app/](https://nikhil-131.github.io/advice-generator-app/)
 
 ## My process
 
@@ -49,11 +43,11 @@ Users should be able to:
 
 ### What I learned
 
-I learned to fetech data using fetech API from api.adviceslip.com. Implemented design styles for better user interface and smooth transition.
+I learned to fetch data using the fetch API from api.adviceslip.com. I have implemented design styles for better user interfaces and smooth transitions.
 
 ### Useful resources
 
-- [Font Awesome](https://fontawesome.com/) - This site gave me all kind of icons/logo in required type . I really liked this site and will be using it.
+- [Font Awesome](https://fontawesome.com/) - This site gave me all kinds of icons/logos in the required type. I liked this site and will be using it.
 
 
 ## Author
